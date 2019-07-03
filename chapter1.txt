@@ -1,1 +1,2 @@
 This is yet another cool first chapter.
+This second sentence is cooler still.
